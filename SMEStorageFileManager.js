@@ -8,8 +8,8 @@ with(SMEStorageFileManager=function(){							//	Constructor
 	this.userInfo['token']='*';
 	this.userInfo['autologincode']='';
 	this.userInfo['userid']='';
-	this.userInfo['login']='cerpowers';
-	this.userInfo['password']='sme2012Lakas';
+	this.userInfo['login']='';
+	this.userInfo['password']='';
 
 	if(  navigator.appName=='Opera'  ){
 		this.brouser=navigator.appName;
