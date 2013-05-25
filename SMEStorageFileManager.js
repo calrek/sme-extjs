@@ -7,8 +7,8 @@ if(  typeof(SMEStorageFM)!='undefined'  ){
 with(SMEStorageFileManager=function(){							//	Constructor
 	this.userInfo['token']='*';
 	this.userInfo['autologincode']='';
-	this.userInfo['userid']='';
-	this.userInfo['login']='';
+	this.userInfo['userid']='YOUR USERNAME HERE';
+	this.userInfo['login']='YOUR PASSWORD HERE';
 	this.userInfo['password']='';
 
 	if(  navigator.appName=='Opera'  ){

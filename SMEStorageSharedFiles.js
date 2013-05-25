@@ -14,8 +14,8 @@ with(SMEStorageSharedFiles=function(){							//	Constructor
 	this.userInfo['token']='*';
 	this.userInfo['autologincode']='';
 	this.userInfo['userid']='';
-	this.userInfo['login']='';
-	this.userInfo['password']='';
+	this.userInfo['userid']='YOUR USERNAME HERE';
+	this.userInfo['login']='YOUR PASSWORD HERE';
 
 	if(  navigator.appName=='Opera'  ){
 		this.brouser=navigator.appName;
